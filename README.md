@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/0135-candy) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/0135-candy) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Breadth-First Search
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Binary Search
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
