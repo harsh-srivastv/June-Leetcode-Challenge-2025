@@ -83,4 +83,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
