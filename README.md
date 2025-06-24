@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/0135-candy) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
