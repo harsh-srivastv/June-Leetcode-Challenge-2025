@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/0135-candy) |
+| [0594-longest-harmonious-subsequence](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -143,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/harsh-srivastv/June-Leetcode-Challenge-2025/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
